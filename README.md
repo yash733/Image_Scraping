@@ -1,4 +1,4 @@
-# Dummy Website to scrape data from -->
+### Dummy Website to scrape data from -->
 ![image](https://github.com/yash733/Image_Scraping/assets/100533686/fea9444f-4f7e-45c1-84f9-cdd7d0e4800f)
 
 ### Data within dataset folder where each tag folder contains 20 or + images related with tag -->
